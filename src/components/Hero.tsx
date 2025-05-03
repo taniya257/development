@@ -181,10 +181,11 @@ const Hero = () => {
                 </div>
                 
                 {/* Event tag */}
-                <div className="absolute -bottom-5 -right-5 bg-marvel-red text-white py-2 px-4 rounded font-marvel shadow-md">
+                <div className="absolute bottom-[-55px] -right-1 bg-marvel-red text-white py-2 px-4 rounded font-marvel shadow-md">
                   SEPT 5-6, 2025
                 </div>
               </div>
+
             </Transition>
           </div>
         </div>
